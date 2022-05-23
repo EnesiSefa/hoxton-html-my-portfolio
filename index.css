@@ -53,9 +53,6 @@ a {
 }
 
 
-
-
-
 h1 {
   padding-left: 1rem;
   
@@ -178,7 +175,7 @@ h3 {
   text-align: center;
 }
 
-/* Footer section */
+
 
 footer {
   grid-area: footer;
