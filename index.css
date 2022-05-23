@@ -1,0 +1,14 @@
+main {
+    background-color: rgba(216, 106, 106, 0.486);
+}
+body{
+    background-color: rgb(141, 216, 216);
+}
+
+p{
+    font-size: 2rem;
+
+}
+html{
+    scroll-behavior: smooth;
+}
