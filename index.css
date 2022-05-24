@@ -14,6 +14,7 @@
 
 body {
   background-color: hsl(10deg 94% 67%);
+  
 }
 
 .navigation {
@@ -38,7 +39,6 @@ a {
 
 .header-adv {
   display: grid;
-  grid-area: header2;
   background-color: hsl(78deg 10% 20%);
   margin: 100px;
   border-bottom-right-radius: 0.5rem;
@@ -48,7 +48,15 @@ a {
   padding-left: 10px;
   gap: 1rem;
   color: hsl(60deg 3% 87%);
+  width: 70vw;
+  max-width: 500px;
+  justify-self: end;
 
+}
+.main-header{
+  display: grid;
+  
+  
   
 }
 
