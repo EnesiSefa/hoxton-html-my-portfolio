@@ -47,6 +47,12 @@ a {
   padding-left: 10px;
   gap: 1rem;
   color: hsl(60deg 3% 87%);
+  width: 70vw;
+  max-width: 500px;
+  
+}
+.main-header {
+  display: grid;
 }
 
 .svg-actual-img {
@@ -88,9 +94,7 @@ b {
   gap: 20px;
 }
 
-
-.videos{
-
+.videos {
   width: 10vw;
 }
 .first-menu {
